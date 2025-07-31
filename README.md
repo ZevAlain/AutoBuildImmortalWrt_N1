@@ -6,14 +6,6 @@
 ## N1默认作为旁路由。
 默认采用DHCP模式,自动获得ip。
 
-## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
-- ### [一键生成run插件] 🆕
-- https://github.com/wukongdaily/RunFilesBuilder<br>
-- ### [一键生成docker离线镜像] 🆕
-- https://github.com/wukongdaily/DockerTarBuilder<br>
-- ### [OpenWrt/Armbian IMG安装器ISO] 🆕
-- https://github.com/wukongdaily/armbian-installer
-
 <details>
 <summary><h2>🍭相关引用</h2></summary>
 
